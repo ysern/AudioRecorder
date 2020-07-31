@@ -2,6 +2,6 @@
 
 Simple Audio Analizer that uses a microphone as input source and the Web Audio API.
 
-Codebase is originally forked from https://github.com/cwilso/AudioRecorder
+Credits to [cwilso](https://github.com/cwilso), whose repo was forked.
 
 Demo: https://ysern.github.io/AudioRecorder/
